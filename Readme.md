@@ -27,7 +27,8 @@ Le principe est simple : progresser par projets, valider ses compétences par la
 - [Push Swap](Common_Core/SWAP_PUSH_FLop/README.md) - tri sous contraintes avec deux piles et un nombre limité d'actions.
 - [So Long](Common_Core/So_fcKING_LONG/README.md) - petit jeu 2D avec gestion de carte, déplacements et objectifs.
 - [C++ Modules](Common_Core/C_plus_plus/Readme.md) - série d'exercices pour travailler la programmation orientée objet en C++.
-
+- [IRC](Common_Core/IRC-/README.md) - Internet Realy protocole de communication textuelle en C++.
+-
 ## Structure
 
 Le dépôt est organisé par grands blocs du cursus, avec chaque projet rangé dans son dossier dédié.

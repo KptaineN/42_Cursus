@@ -1,0 +1,72 @@
+ircserv/
+├── includes/
+│   ├── Server.hpp
+│   ├── Client.hpp
+│   ├── Channel.hpp
+│   ├── ArgParser.hpp
+│   ├── IrcMessage.hpp
+│   ├── IrcParser.hpp
+│   ├── CommandDispatcher.hpp
+│   ├── Replies.hpp
+│   └── exceptions.hpp
+│
+├── srcs/
+│   ├── main.cpp
+│   ├── ArgParser.cpp
+│   ├── Server.cpp
+│   ├── Client.cpp
+│   ├── Channel.cpp
+│   ├── IrcParser.cpp
+│   ├── CommandDispatcher.cpp
+│   ├── Replies.cpp
+│   │
+│   └── commands/
+│       ├── PassCommand.cpp
+│       ├── NickCommand.cpp
+│       ├── UserCommand.cpp
+│       ├── JoinCommand.cpp
+│       ├── PrivmsgCommand.cpp
+│       ├── PingCommand.cpp
+│       ├── QuitCommand.cpp
+│       ├── PartCommand.cpp
+│       ├── TopicCommand.cpp
+│       ├── KickCommand.cpp
+│       ├── InviteCommand.cpp
+│       └── ModeCommand.cpp
+│
+├── tests/
+│   ├── manual_nc.sh
+│   ├── auto_test.sh
+│   └── leak_test.sh
+│
+└── Makefile
+
+
+Server
+├── ServerConfig
+├── ServerState
+├── vector<pollfd>
+├── map<int, Client>
+└── CommandDispatcher
+
+Client
+├── fd
+├── input buffer
+├── output buffer
+└── ProfilIrc
+
+ProfilIrc
+├── nickname
+├── username
+├── realname
+├── passOk
+└── registered
+
+Channel
+├── name
+├── topic
+├── key
+├── users
+├── operators
+├── invited
+└── modes
