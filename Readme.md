@@ -16,18 +16,18 @@ Le principe est simple : progresser par projets, valider ses compétences par la
 
 ## Projets réalisés
 
-- [Libft](Common_Core/LIBFT-/README.md) - création d'une bibliothèque personnelle de fonctions utilitaires en C.
-- [Pipex](Common_Core/pipeX/README.md) - reproduction du comportement des pipes Unix et gestion des processus.
-- [Born2BeRoot](Common_Core/Born2BeRoot/b2br_guide/README.txt) - administration d'une machine Linux et mise en place d'un environnement serveur.
-- [Philosophers](Common_Core/philolo/README.md) - gestion de threads, mutex et synchronisation.
-- [MiniShell](Common_Core/MINI_Sh3LL/README.md) - réalisation d'un shell minimaliste avec exécution de commandes.
-- [Net Practice](Common_Core/Net_Pratique/Readme.md) - configuration réseau, adressage IP et sous-réseaux.
-- [Cub3D](Common_Core/CUb3D/cub3d/README.md) - moteur 3D en raycasting inspiré de Wolfenstein 3D.
-- [Inception](Common_Core/InCepTioN/README.md) - orchestration de services avec Docker et Docker Compose.
-- [Push Swap](Common_Core/SWAP_PUSH_FLop/README.md) - tri sous contraintes avec deux piles et un nombre limité d'actions.
-- [So Long](Common_Core/So_fcKING_LONG/README.md) - petit jeu 2D avec gestion de carte, déplacements et objectifs.
-- [C++ Modules](Common_Core/C_plus_plus/Readme.md) - série d'exercices pour travailler la programmation orientée objet en C++.
-- [IRC](Common_Core/IRC-/README.md) - Internet Realy protocole de communication textuelle en C++.
+- [Libft](https://github.com/KptaineN/LIBFT-) - création d'une bibliothèque personnelle de fonctions utilitaires en C.
+- [Pipex](https://github.com/KptaineN/pipeX) - reproduction du comportement des pipes Unix et gestion des processus.
+- [Born2BeRoot](https://github.com/KptaineN/Born2BeRoot) - administration d'une machine Linux et mise en place d'un environnement serveur.
+- [Philosophers](https://github.com/KptaineN/philolo) - gestion de threads, mutex et synchronisation.
+- [MiniShell](https://github.com/KptaineN/MINI_Sh3LL) - réalisation d'un shell minimaliste avec exécution de commandes.
+- [Net Practice](https://github.com/KptaineN/Net_Pratique) - configuration réseau, adressage IP et sous-réseaux.
+- [Cub3D](https://github.com/KptaineN/CUb3D) - moteur 3D en raycasting inspiré de Wolfenstein 3D.
+- [Inception](https://github.com/KptaineN/InCepTioN) - orchestration de services avec Docker et Docker Compose.
+- [Push Swap](https://github.com/KptaineN/SWAP_PUSH_FLop) - tri sous contraintes avec deux piles et un nombre limité d'actions.
+- [So Long](https://github.com/KptaineN/So_fcKING_LONG) - petit jeu 2D avec gestion de carte, déplacements et objectifs.
+- [C++ Modules](https://github.com/KptaineN/C_plus_plus) - série d'exercices pour travailler la programmation orientée objet en C++.
+- [IRC](https://github.com/KptaineN/Internet_Relay_Chat_Gooo) - Internet Realy protocole de communication textuelle en C++.
 -
 ## Structure
 
